@@ -1,6 +1,6 @@
 # DeepNcode: Encoding-Based Protection against Bit-Flip Attacks on Neural Networks
 ### Authors: Patrik Velčický, Jakub Breier, Mladen Kovačević, Xiaolu Hou
-### Master's Thesis - Evidence No.: FIIT-183739-103175
+### Master's Thesis Evidence No.: FIIT-183739-103175
 
 ## Important files:
 *.sh files - examples of usage\
