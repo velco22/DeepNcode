@@ -11,6 +11,6 @@ main.py - used for training NN\
 our_implementation_of_qnn - implementation of qnn with countermeasure\
 
 ## Parts of this code repository is based on the following works:
-BFA - https://github.com/elliothe/BFA\
-TA-LBF - https://github.com/jiawangbai/TA-LBF, https://github.com/IGITUGraz/OutputCodeMatching\
-T-BFA - https://github.com/adnansirajrakin/T-BFA, https://github.com/IGITUGraz/OutputCodeMatching\
+BFA - https://github.com/elliothe/BFA \
+TA-LBF - https://github.com/jiawangbai/TA-LBF, https://github.com/IGITUGraz/OutputCodeMatching \
+T-BFA - https://github.com/adnansirajrakin/T-BFA, https://github.com/IGITUGraz/OutputCodeMatching \
