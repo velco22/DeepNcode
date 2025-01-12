@@ -1,0 +1,107 @@
+Evaluation time and accuracy
+beginning_test_acc: 91.69
+time_arr_all:     0.3649916648864746
+time_arr_one_avr: 3.6499166488647464e-05
+----------------------------------------
+----------------------------------------
+C12
+time_encoding_min:  0.656714916229248
+time_decoding_min:  0.7669057846069336
+--
+time_encoding_max:  0.6803462505340576
+time_decoding_max:  0.7965738773345947
+--
+time_encoding_mean: 0.6639552052021027
+time_decoding_mean: 0.7774884753227234
+####
+cpu_encoding_min: 1674152662
+cpu_decoding_min: 1997017064
+--
+cpu_encoding_max: 1724879196
+cpu_decoding_max: 2076193624
+--
+cpu_encoding_mean: 1690804573.75
+cpu_decoding_mean: 2023986534.852
+----------------------------------------
+C13
+time_encoding_min:  0.6726007461547852
+time_decoding_min:  0.7749791145324707
+--
+time_encoding_max:  0.6869521141052246
+time_decoding_max:  0.7968461513519287
+--
+time_encoding_mean: 0.6755518739223481
+time_decoding_mean: 0.7780886125564576
+####
+cpu_encoding_min: 1711499048
+cpu_decoding_min: 2017586802
+--
+cpu_encoding_max: 1755335424
+cpu_decoding_max: 2083573908
+--
+cpu_encoding_mean: 1719970582.312
+cpu_decoding_mean: 2025101814.08
+----------------------------------------
+C14
+time_encoding_min:  0.6655957698822021
+time_decoding_min:  0.7770814895629883
+--
+time_encoding_max:  0.6860876083374023
+time_decoding_max:  0.8165900707244873
+--
+time_encoding_mean: 0.6686450734138488
+time_decoding_mean: 0.780786400794983
+####
+cpu_encoding_min: 1695043468
+cpu_decoding_min: 2022746224
+--
+cpu_encoding_max: 1749596902
+cpu_decoding_max: 2108218484
+--
+cpu_encoding_mean: 1702678392.88
+cpu_decoding_mean: 2032071862.384
+----------------------------------------
+DataParallel(
+  (module): VGG_cifar10(
+    (features): Sequential(
+      (0): quan_Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      (1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+      (4): quan_Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      (5): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (6): ReLU(inplace=True)
+      (7): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+      (8): quan_Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      (9): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (10): ReLU(inplace=True)
+      (11): quan_Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      (12): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (13): ReLU(inplace=True)
+      (14): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+      (15): quan_Conv2d(256, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      (16): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (17): ReLU(inplace=True)
+      (18): quan_Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      (19): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (20): ReLU(inplace=True)
+      (21): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+      (22): quan_Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      (23): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (24): ReLU(inplace=True)
+      (25): quan_Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+      (26): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (27): ReLU(inplace=True)
+      (28): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+    )
+    (classifier): Sequential(
+      (0): Dropout(p=0.5, inplace=False)
+      (1): quan_Linear(in_features=512, out_features=512, bias=True)
+      (2): ReLU(inplace=True)
+      (3): Dropout(p=0.5, inplace=False)
+      (4): quan_Linear(in_features=512, out_features=512, bias=True)
+      (5): ReLU(inplace=True)
+    )
+    (linear): quan_Linear(in_features=512, out_features=10, bias=True)
+  )
+)

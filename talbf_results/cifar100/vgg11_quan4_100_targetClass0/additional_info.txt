@@ -1,0 +1,35 @@
+./talbf_results/cifar100/vgg11_quan4_100_targetClass0/
+--------------------
+--------------------
+# of weights attacked mean: 148.5
+# of weights attacked std: 40.579756858151164
+# of weights attacked min: 52.0
+# of weights attacked max: 198.0
+--
+hd_0_mean: 148.5
+hd_0_std: 40.579756858151164
+hd_0_min: 52.0
+hd_0_max: 198.0
+--
+hd_1_mean: 1032.0
+hd_1_std: 279.79289960016257
+hd_1_min: 364.0
+hd_1_max: 1386.0
+--
+hd_2_mean: 1178.0
+hd_2_std: 318.97293511101117
+hd_2_min: 416.0
+hd_2_max: 1584.0
+--
+hd_3_mean: 1180.5
+hd_3_std: 320.360291963075
+hd_3_min: 416.0
+hd_3_max: 1584.0
+--
+--
+ & 52.0 & 148.5 & 198.0 & 52.0 & 148.5 & 198.0 & 364.0 & 1032.0 & 1386.0 & 416.0 & 1178.0 & 1584.0 & 416.0 & 1180.5 & 1584.0
+--------------------
+--------------------
+& \multicolumn{1}{c|}{$148.5 \pm 40.58$} & \multicolumn{1}{c|}{$148.5 \pm 40.58$} & \multicolumn{1}{c|}{$1032.0 \pm 279.79$} & \multicolumn{1}{c|}{$1178.0 \pm 318.97$} & \multicolumn{1}{c|}{$1180.5 \pm 320.36$}
+
+& \multicolumn{1}{c|}{$148.5 \pm 40.580$} & \multicolumn{1}{c|}{$148.5 \pm 40.580$} & \multicolumn{1}{c|}{$1032.0 \pm 279.793$} & \multicolumn{1}{c|}{$1178.0 \pm 318.973$} & \multicolumn{1}{c|}{$1180.5 \pm 320.360$}

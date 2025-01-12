@@ -1,0 +1,385 @@
+done 1000
+00:14:55.57
+acc_int4                   :  0.96
+acc_int4_f1                :  0.96
+acc_int4_f2                :  0.96
+acc_int4_f3                :  0.96
+acc_int4_f4                :  0.96
+acc_int4_fullprotection    :  0.96
+acc_int4_fullprotection_f1 :  0.96
+acc_int4_fullprotection_f2 :  0.96
+acc_int4_fullprotection_f3 :  0.96
+acc_int4_fullprotection_f4 :  0.96
+acc_int8_tf                :  0.976
+dif_f1:  0.0
+dif_f2:  0.0
+dif_f3:  0.0
+dif_f4:  0.0
+dif_fullprotection:  0.0
+dif_fullprotection_f1:  0.0
+dif_fullprotection_f2:  0.0
+dif_fullprotection_f3:  0.0
+dif_fullprotection_f4:  0.0
+eva_time                    : 0.36540442824363706
+eva_time_f1                 : 0.006265908718109131
+eva_time_f2                 : 0.0054629256725311276
+eva_time_f3                 : 0.006775036811828613
+eva_time_f4                 : 0.005035903692245484
+eva_time_fullprotection     : 0.39354753637313844
+eva_time_fullprotection_f1  : 0.029973248720169068
+eva_time_fullprotection_f2  : 0.026341015815734864
+eva_time_fullprotection_f3  : 0.029631405591964723
+eva_time_fullprotection_f4  : 0.02689446187019348
+eva_time_int8_tf_invoke     : 3.432154655456543e-05
+eva_time_int8_tf_all        : 5.0004005432128906e-05
+----------------------------------------------------------------------------
+done 2000
+00:14:48.35
+acc_int4                   :  0.943
+acc_int4_f1                :  0.943
+acc_int4_f2                :  0.943
+acc_int4_f3                :  0.943
+acc_int4_f4                :  0.943
+acc_int4_fullprotection    :  0.943
+acc_int4_fullprotection_f1 :  0.943
+acc_int4_fullprotection_f2 :  0.943
+acc_int4_fullprotection_f3 :  0.943
+acc_int4_fullprotection_f4 :  0.943
+acc_int8_tf                :  0.968
+dif_f1:  0.0
+dif_f2:  0.0
+dif_f3:  0.0
+dif_f4:  0.0
+dif_fullprotection:  0.0
+dif_fullprotection_f1:  0.0
+dif_fullprotection_f2:  0.0
+dif_fullprotection_f3:  0.0
+dif_fullprotection_f4:  0.0
+eva_time                    : 0.363709684252739
+eva_time_f1                 : 0.006669346690177918
+eva_time_f2                 : 0.005214850902557373
+eva_time_f3                 : 0.006657058358192444
+eva_time_f4                 : 0.005228126645088196
+eva_time_fullprotection     : 0.39182208001613616
+eva_time_fullprotection_f1  : 0.029711251974105835
+eva_time_fullprotection_f2  : 0.026377323269844054
+eva_time_fullprotection_f3  : 0.029765713810920715
+eva_time_fullprotection_f4  : 0.02651022791862488
+eva_time_int8_tf_invoke     : 1.8845796585083008e-05
+eva_time_int8_tf_all        : 2.6717066764831543e-05
+----------------------------------------------------------------------------
+done 3000
+00:14:49.48
+acc_int4                   :  0.94
+acc_int4_f1                :  0.94
+acc_int4_f2                :  0.94
+acc_int4_f3                :  0.94
+acc_int4_f4                :  0.94
+acc_int4_fullprotection    :  0.94
+acc_int4_fullprotection_f1 :  0.94
+acc_int4_fullprotection_f2 :  0.94
+acc_int4_fullprotection_f3 :  0.94
+acc_int4_fullprotection_f4 :  0.94
+acc_int8_tf                :  0.966
+dif_f1:  0.0
+dif_f2:  0.0
+dif_f3:  0.0
+dif_f4:  0.0
+dif_fullprotection:  0.0
+dif_fullprotection_f1:  0.0
+dif_fullprotection_f2:  0.0
+dif_fullprotection_f3:  0.0
+dif_fullprotection_f4:  0.0
+eva_time                    : 0.363403538942337
+eva_time_f1                 : 0.006616754611333211
+eva_time_f2                 : 0.005215789556503296
+eva_time_f3                 : 0.006740646759668986
+eva_time_f4                 : 0.005123736381530762
+eva_time_fullprotection     : 0.3914743934472402
+eva_time_fullprotection_f1  : 0.0297052587668101
+eva_time_fullprotection_f2  : 0.0264076824982961
+eva_time_fullprotection_f3  : 0.029711294889450072
+eva_time_fullprotection_f4  : 0.02645715355873108
+eva_time_int8_tf_invoke     : 2.306858698527018e-05
+eva_time_int8_tf_all        : 3.3549149831136064e-05
+----------------------------------------------------------------------------
+done 4000
+00:14:45.24
+acc_int4                   :  0.9395
+acc_int4_f1                :  0.9395
+acc_int4_f2                :  0.9395
+acc_int4_f3                :  0.9395
+acc_int4_f4                :  0.9395
+acc_int4_fullprotection    :  0.9395
+acc_int4_fullprotection_f1 :  0.9395
+acc_int4_fullprotection_f2 :  0.9395
+acc_int4_fullprotection_f3 :  0.9395
+acc_int4_fullprotection_f4 :  0.9395
+acc_int8_tf                :  0.965
+dif_f1:  0.0
+dif_f2:  0.0
+dif_f3:  0.0
+dif_f4:  0.0
+dif_fullprotection:  0.0
+dif_fullprotection_f1:  0.0
+dif_fullprotection_f2:  0.0
+dif_fullprotection_f3:  0.0
+dif_fullprotection_f4:  0.0
+eva_time                    : 0.3627912529706955
+eva_time_f1                 : 0.006738325655460358
+eva_time_f2                 : 0.005152690351009369
+eva_time_f3                 : 0.006701088070869446
+eva_time_f4                 : 0.005244124054908752
+eva_time_fullprotection     : 0.3906627180576324
+eva_time_fullprotection_f1  : 0.029689083755016325
+eva_time_fullprotection_f2  : 0.026422720193862916
+eva_time_fullprotection_f3  : 0.02967597496509552
+eva_time_fullprotection_f4  : 0.026300710797309876
+eva_time_int8_tf_invoke     : 2.1207213401794434e-05
+eva_time_int8_tf_all        : 3.688061237335205e-05
+----------------------------------------------------------------------------
+done 5000
+00:14:45.06
+acc_int4                   :  0.9382
+acc_int4_f1                :  0.9382
+acc_int4_f2                :  0.9382
+acc_int4_f3                :  0.9382
+acc_int4_f4                :  0.9382
+acc_int4_fullprotection    :  0.9382
+acc_int4_fullprotection_f1 :  0.9382
+acc_int4_fullprotection_f2 :  0.9382
+acc_int4_fullprotection_f3 :  0.9382
+acc_int4_fullprotection_f4 :  0.9382
+acc_int8_tf                :  0.9652
+dif_f1:  0.0
+dif_f2:  0.0
+dif_f3:  0.0
+dif_f4:  0.0
+dif_fullprotection:  0.0
+dif_fullprotection_f1:  0.0
+dif_fullprotection_f2:  0.0
+dif_fullprotection_f3:  0.0
+dif_fullprotection_f4:  0.0
+eva_time                    : 0.36240636553764344
+eva_time_f1                 : 0.0067047356605529785
+eva_time_f2                 : 0.0051928696155548095
+eva_time_f3                 : 0.006653502035140991
+eva_time_f4                 : 0.005280725240707398
+eva_time_fullprotection     : 0.3902741256713867
+eva_time_fullprotection_f1  : 0.029624658203125
+eva_time_fullprotection_f2  : 0.026412295484542846
+eva_time_fullprotection_f3  : 0.02956937551498413
+eva_time_fullprotection_f4  : 0.02631611943244934
+eva_time_int8_tf_invoke     : 2.0665597915649415e-05
+eva_time_int8_tf_all        : 3.945608139038086e-05
+----------------------------------------------------------------------------
+done 6000
+00:14:46.23
+acc_int4                   :  0.9431666666666667
+acc_int4_f1                :  0.9431666666666667
+acc_int4_f2                :  0.9431666666666667
+acc_int4_f3                :  0.9431666666666667
+acc_int4_f4                :  0.9431666666666667
+acc_int4_fullprotection    :  0.9431666666666667
+acc_int4_fullprotection_f1 :  0.9431666666666667
+acc_int4_fullprotection_f2 :  0.9431666666666667
+acc_int4_fullprotection_f3 :  0.9431666666666667
+acc_int4_fullprotection_f4 :  0.9431666666666667
+acc_int8_tf                :  0.9681666666666666
+dif_f1:  0.0
+dif_f2:  0.0
+dif_f3:  0.0
+dif_f4:  0.0
+dif_fullprotection:  0.0
+dif_fullprotection_f1:  0.0
+dif_fullprotection_f2:  0.0
+dif_fullprotection_f3:  0.0
+dif_fullprotection_f4:  0.0
+eva_time                    : 0.36220665570100147
+eva_time_f1                 : 0.006772385358810425
+eva_time_f2                 : 0.005128507494926452
+eva_time_f3                 : 0.0066933079163233435
+eva_time_f4                 : 0.00530119788646698
+eva_time_fullprotection     : 0.39003380501270296
+eva_time_fullprotection_f1  : 0.02957424728075663
+eva_time_fullprotection_f2  : 0.026456140438715615
+eva_time_fullprotection_f3  : 0.02953936310609182
+eva_time_fullprotection_f4  : 0.02631601683298747
+eva_time_int8_tf_invoke     : 2.518288294474284e-05
+eva_time_int8_tf_all        : 4.346048831939697e-05
+----------------------------------------------------------------------------
+done 7000
+00:14:45.31
+acc_int4                   :  0.9458571428571428
+acc_int4_f1                :  0.9458571428571428
+acc_int4_f2                :  0.9458571428571428
+acc_int4_f3                :  0.9458571428571428
+acc_int4_f4                :  0.9458571428571428
+acc_int4_fullprotection    :  0.9458571428571428
+acc_int4_fullprotection_f1 :  0.9458571428571428
+acc_int4_fullprotection_f2 :  0.9458571428571428
+acc_int4_fullprotection_f3 :  0.9458571428571428
+acc_int4_fullprotection_f4 :  0.9458571428571428
+acc_int8_tf                :  0.9702857142857143
+dif_f1:  0.0
+dif_f2:  0.0
+dif_f3:  0.0
+dif_f4:  0.0
+dif_fullprotection:  0.0
+dif_fullprotection_f1:  0.0
+dif_fullprotection_f2:  0.0
+dif_fullprotection_f3:  0.0
+dif_fullprotection_f4:  0.0
+eva_time                    : 0.3620558994497572
+eva_time_f1                 : 0.006672939538955688
+eva_time_f2                 : 0.005157720940453666
+eva_time_f3                 : 0.006724054881504604
+eva_time_f4                 : 0.005249748468399048
+eva_time_fullprotection     : 0.38989392134121487
+eva_time_fullprotection_f1  : 0.029550141164234708
+eva_time_fullprotection_f2  : 0.02640253908293588
+eva_time_fullprotection_f3  : 0.029548346860068186
+eva_time_fullprotection_f4  : 0.026344511577061244
+eva_time_int8_tf_invoke     : 2.604147366115025e-05
+eva_time_int8_tf_all        : 4.840292249407087e-05
+----------------------------------------------------------------------------
+done 8000
+00:14:44.72
+acc_int4                   :  0.950375
+acc_int4_f1                :  0.950375
+acc_int4_f2                :  0.950375
+acc_int4_f3                :  0.950375
+acc_int4_f4                :  0.950375
+acc_int4_fullprotection    :  0.950375
+acc_int4_fullprotection_f1 :  0.950375
+acc_int4_fullprotection_f2 :  0.950375
+acc_int4_fullprotection_f3 :  0.950375
+acc_int4_fullprotection_f4 :  0.950375
+acc_int8_tf                :  0.973125
+dif_f1:  0.0
+dif_f2:  0.0
+dif_f3:  0.0
+dif_f4:  0.0
+dif_fullprotection:  0.0
+dif_fullprotection_f1:  0.0
+dif_fullprotection_f2:  0.0
+dif_fullprotection_f3:  0.0
+dif_fullprotection_f4:  0.0
+eva_time                    : 0.3618486077785492
+eva_time_f1                 : 0.006725834935903549
+eva_time_f2                 : 0.0050693852603435514
+eva_time_f3                 : 0.0068100565969944
+eva_time_f4                 : 0.005221065819263458
+eva_time_fullprotection     : 0.3897337164878845
+eva_time_fullprotection_f1  : 0.029461331635713576
+eva_time_fullprotection_f2  : 0.026423371851444246
+eva_time_fullprotection_f3  : 0.029576071202754975
+eva_time_fullprotection_f4  : 0.026305821478366853
+eva_time_int8_tf_invoke     : 2.865073084831238e-05
+eva_time_int8_tf_all        : 5.023261904716492e-05
+----------------------------------------------------------------------------
+done 9000
+00:14:44.28
+acc_int4                   :  0.954
+acc_int4_f1                :  0.954
+acc_int4_f2                :  0.954
+acc_int4_f3                :  0.954
+acc_int4_f4                :  0.954
+acc_int4_fullprotection    :  0.954
+acc_int4_fullprotection_f1 :  0.954
+acc_int4_fullprotection_f2 :  0.954
+acc_int4_fullprotection_f3 :  0.954
+acc_int4_fullprotection_f4 :  0.954
+acc_int8_tf                :  0.9752222222222222
+dif_f1:  0.0
+dif_f2:  0.0
+dif_f3:  0.0
+dif_f4:  0.0
+dif_fullprotection:  0.0
+dif_fullprotection_f1:  0.0
+dif_fullprotection_f2:  0.0
+dif_fullprotection_f3:  0.0
+dif_fullprotection_f4:  0.0
+eva_time                    : 0.36172518128818937
+eva_time_f1                 : 0.006732014205720689
+eva_time_f2                 : 0.005028866397009955
+eva_time_f3                 : 0.006835701147715251
+eva_time_f4                 : 0.005199130588107639
+eva_time_fullprotection     : 0.38961653068330554
+eva_time_fullprotection_f1  : 0.02941617234547933
+eva_time_fullprotection_f2  : 0.026413174205356174
+eva_time_fullprotection_f3  : 0.029536477035946317
+eva_time_fullprotection_f4  : 0.026320661571290756
+eva_time_int8_tf_invoke     : 3.241493966844347e-05
+eva_time_int8_tf_all        : 5.332435501946343e-05
+----------------------------------------------------------------------------
+02:27:48.83
+Mistake1 in output: 0.0
+Mistake1 in value: 0.0
+
+Mistake2 in output: 0.0
+Mistake2 in value: 0.0
+
+Mistake3 in output: 0.0
+Mistake3 in value: 0.0
+
+Mistake4 in output: 0.0
+Mistake4 in value: 0.0
+
+Mistake5 in output: 0.0
+Mistake5 in value: 0.0
+
+Mistake6 in output: 0.0
+Mistake6 in value: 0.0
+
+Mistake7 in output: 0.0
+Mistake7 in value: 0.0
+
+Mistake8 in output: 0.0
+Mistake8 in value: 0.0
+
+Mistake9 in output: 0.0
+Mistake9 in value: 0.0
+
+313/313 [==============================] - 0s 952us/step - loss: 0.1000 - accuracy: 0.9757
+Accuracy float32                :  0.9757000207901001
+Accuracy int4                   :  0.9549
+Accuracy int4 f1                :  0.9549
+Accuracy int4 f2                :  0.9549
+Accuracy int4 f3                :  0.9549
+Accuracy int4 f4                :  0.9549
+Accuracy int4 fullprotection    :  0.9549
+Accuracy int4 fullprotection f1 :  0.9549
+Accuracy int4 fullprotection f2 :  0.9549
+Accuracy int4 fullprotection f3 :  0.9549
+Accuracy int4 fullprotection f4 :  0.9549
+Accuracy int8 tf                :  0.9758
+eva_time                   : 0.3616159639596939
+eva_time_f1                : 0.0067480845928192135
+eva_time_f2                : 0.005004317021369934
+eva_time_f3                : 0.006834458947181702
+eva_time_f4                : 0.005225908160209656
+eva_time_fullprotection    : 0.3894861911058426
+eva_time_fullprotection_f1 : 0.02940464005470276
+eva_time_fullprotection_f2 : 0.026412164735794066
+eva_time_fullprotection_f3 : 0.029560543131828307
+eva_time_fullprotection_f4 : 0.02626778607368469
+eva_time_int8_tf_all       : 5.4250597953796385e-05
+eva_time_int8_tf_invoke    : 3.0745530128479e-05
+------------------------------------
+How much faster (eva_time is x times faster then eva_time_fp):
+
+eva_time       - eva_time_fp    : 1.077071340659217
+eva_time_f1    - eva_time       : 53.58794173156891
+eva_time_f2    - eva_time       : 72.26080250621321
+eva_time_f3    - eva_time       : 52.91069370002025
+eva_time_f4    - eva_time       : 69.19676980033006
+eva_time_fp_f1 - eva_time_fp    : 13.245739120807604
+eva_time_fp_f2 - eva_time_fp    : 14.746469855914782
+eva_time_fp_f3 - eva_time_fp    : 13.175880746469662
+eva_time_fp_f4 - eva_time_fp    : 14.827522578921618
+eva_time_f1    - eva_time_fp_f1 : 4.357479466987253
+eva_time_f2    - eva_time_fp_f2 : 5.277876006457266
+eva_time_f3    - eva_time_fp_f3 : 4.32522067368889
+eva_time_f4    - eva_time_fp_f4 : 5.026453827430229
+eva_time_int8_tf_invoke - eva_time_int8_tf_all : 1.764503579124989

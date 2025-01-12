@@ -1,0 +1,35 @@
+./bfa_results/cifar10/resnet20_quan8_100/
+--------------------
+--------------------
+# of weights attacked mean: 18.81
+# of weights attacked std: 9.957605133765849
+# of weights attacked min: 8.0
+# of weights attacked max: 56.0
+--
+hd_0_mean: 19.0
+hd_0_std: 10.242070103255495
+hd_0_min: 8.0
+hd_0_max: 57.0
+--
+hd_1_mean: 222.72
+hd_1_std: 116.23451122622748
+hd_1_min: 96.0
+hd_1_max: 660.0
+--
+hd_2_mean: 223.34
+hd_2_std: 116.80447080484548
+hd_2_min: 96.0
+hd_2_max: 662.0
+--
+hd_3_mean: 241.96
+hd_3_std: 126.51457781615524
+hd_3_min: 104.0
+hd_3_max: 717.0
+--
+--
+ & 8.0 & 18.81 & 56.0 & 8.0 & 19.0 & 57.0 & 96.0 & 222.72 & 660.0 & 96.0 & 223.34 & 662.0 & 104.0 & 241.96 & 717.0
+--------------------
+--------------------
+& \multicolumn{1}{c|}{$18.81 \pm 9.96$} & \multicolumn{1}{c|}{$19.0 \pm 10.24$} & \multicolumn{1}{c|}{$222.72 \pm 116.23$} & \multicolumn{1}{c|}{$223.34 \pm 116.80$} & \multicolumn{1}{c|}{$241.96 \pm 126.51$}
+
+& \multicolumn{1}{c|}{$18.81 \pm 9.958$} & \multicolumn{1}{c|}{$19.0 \pm 10.242$} & \multicolumn{1}{c|}{$222.72 \pm 116.235$} & \multicolumn{1}{c|}{$223.34 \pm 116.804$} & \multicolumn{1}{c|}{$241.96 \pm 126.515$}

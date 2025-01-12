@@ -1,0 +1,132 @@
+Tensor details:
+
+0 <class 'numpy.uint8'> serving_default_dense_input:0
+ scales:
+ [0.01197439]
+ zero_points:
+ [120]
+ tensor_shape:
+ (1, 3)
+ tensor:
+ [[ 69, 181, 194]]
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+1 <class 'numpy.int8'> sequential/dense/MatMul
+ scales:
+ [0.00402647]
+ zero_points:
+ [0]
+ tensor_shape:
+ (3, 3)
+ tensor:
+ [[ -63, -127,   -4],
+ [  87,  -84,  -65],
+ [-127,  114,  -49]]
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+2 <class 'numpy.int32'> sequential/dense/BiasAdd/ReadVariableOp
+ scales:
+ [4.8214453e-05]
+ zero_points:
+ [0]
+ tensor_shape:
+ (3,)
+ tensor:
+ [-104, -103, -104]
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+3 <class 'numpy.int8'> sequential/dense_1/MatMul
+ scales:
+ [0.00819842]
+ zero_points:
+ [0]
+ tensor_shape:
+ (2, 3)
+ tensor:
+ [[-113,   34,   47],
+ [  43,  -51, -127]]
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+4 <class 'numpy.int32'> sequential/dense_1/BiasAdd/ReadVariableOp
+ scales:
+ [3.500152e-05]
+ zero_points:
+ [0]
+ tensor_shape:
+ (2,)
+ tensor:
+ [-143,  143]
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+5 <class 'numpy.int8'> tfl.quantize
+ scales:
+ [0.01197439]
+ zero_points:
+ [-8]
+ tensor_shape:
+ (1, 3)
+ tensor:
+ [[ 87, -22,  66]]
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+6 <class 'numpy.int8'> sequential/dense/MatMul;sequential/dense/Relu;sequential/dense/BiasAdd
+ scales:
+ [0.0042693]
+ zero_points:
+ [-128]
+ tensor_shape:
+ (1, 3)
+ tensor:
+ [[-41, 106, -18]]
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+7 <class 'numpy.int8'> StatefulPartitionedCall:01
+ scales:
+ [0.00605172]
+ zero_points:
+ [58]
+ tensor_shape:
+ (1, 2)
+ tensor:
+ [[ 87, -22]]
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+8 <class 'numpy.uint8'> StatefulPartitionedCall:0
+ scales:
+ [0.00605172]
+ zero_points:
+ [186]
+ tensor_shape:
+ (1, 2)
+ tensor:
+ [[215, 106]]
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+{'name': 'serving_default_dense_input:0', 'index': 0, 'shape': array([1, 3]), 'shape_signature': array([-1,  3]), 'dtype': <class 'numpy.uint8'>, 'quantization': (0.011974385008215904, 120), 'quantization_parameters': {'scales': array([0.01197439], dtype=float32), 'zero_points': array([120]), 'quantized_dimension': 0}, 'sparsity_parameters': {}}
+{'name': 'sequential/dense/MatMul', 'index': 1, 'shape': array([3, 3]), 'shape_signature': array([3, 3]), 'dtype': <class 'numpy.int8'>, 'quantization': (0.004026466049253941, 0), 'quantization_parameters': {'scales': array([0.00402647], dtype=float32), 'zero_points': array([0]), 'quantized_dimension': 0}, 'sparsity_parameters': {}}
+{'name': 'sequential/dense/BiasAdd/ReadVariableOp', 'index': 2, 'shape': array([3]), 'shape_signature': array([3]), 'dtype': <class 'numpy.int32'>, 'quantization': (4.8214453272521496e-05, 0), 'quantization_parameters': {'scales': array([4.8214453e-05], dtype=float32), 'zero_points': array([0]), 'quantized_dimension': 0}, 'sparsity_parameters': {}}
+{'name': 'sequential/dense_1/MatMul', 'index': 3, 'shape': array([2, 3]), 'shape_signature': array([2, 3]), 'dtype': <class 'numpy.int8'>, 'quantization': (0.008198416791856289, 0), 'quantization_parameters': {'scales': array([0.00819842], dtype=float32), 'zero_points': array([0]), 'quantized_dimension': 0}, 'sparsity_parameters': {}}
+{'name': 'sequential/dense_1/BiasAdd/ReadVariableOp', 'index': 4, 'shape': array([2]), 'shape_signature': array([2]), 'dtype': <class 'numpy.int32'>, 'quantization': (3.50015216099564e-05, 0), 'quantization_parameters': {'scales': array([3.500152e-05], dtype=float32), 'zero_points': array([0]), 'quantized_dimension': 0}, 'sparsity_parameters': {}}
+{'name': 'tfl.quantize', 'index': 5, 'shape': array([1, 3]), 'shape_signature': array([-1,  3]), 'dtype': <class 'numpy.int8'>, 'quantization': (0.011974385008215904, -8), 'quantization_parameters': {'scales': array([0.01197439], dtype=float32), 'zero_points': array([-8]), 'quantized_dimension': 0}, 'sparsity_parameters': {}}
+{'name': 'sequential/dense/MatMul;sequential/dense/Relu;sequential/dense/BiasAdd', 'index': 6, 'shape': array([1, 3]), 'shape_signature': array([-1,  3]), 'dtype': <class 'numpy.int8'>, 'quantization': (0.004269302356988192, -128), 'quantization_parameters': {'scales': array([0.0042693], dtype=float32), 'zero_points': array([-128]), 'quantized_dimension': 0}, 'sparsity_parameters': {}}
+{'name': 'StatefulPartitionedCall:01', 'index': 7, 'shape': array([1, 2]), 'shape_signature': array([-1,  2]), 'dtype': <class 'numpy.int8'>, 'quantization': (0.006051715463399887, 58), 'quantization_parameters': {'scales': array([0.00605172], dtype=float32), 'zero_points': array([58]), 'quantized_dimension': 0}, 'sparsity_parameters': {}}
+{'name': 'StatefulPartitionedCall:0', 'index': 8, 'shape': array([1, 2]), 'shape_signature': array([-1,  2]), 'dtype': <class 'numpy.uint8'>, 'quantization': (0.006051715463399887, 186), 'quantization_parameters': {'scales': array([0.00605172], dtype=float32), 'zero_points': array([186]), 'quantized_dimension': 0}, 'sparsity_parameters': {}}

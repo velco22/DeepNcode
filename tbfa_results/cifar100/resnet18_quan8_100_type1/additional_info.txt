@@ -1,0 +1,35 @@
+./tbfa_results/cifar100/resnet18_quan8_100_type1/
+--------------------
+--------------------
+# of weights attacked mean: 34.97
+# of weights attacked std: 9.679312992149805
+# of weights attacked min: 21.0
+# of weights attacked max: 82.0
+--
+hd_0_mean: 34.99
+hd_0_std: 9.690712048141767
+hd_0_min: 21.0
+hd_0_max: 82.0
+--
+hd_1_mean: 413.13
+hd_1_std: 115.33608758753697
+hd_1_min: 246.0
+hd_1_max: 978.0
+--
+hd_2_mean: 415.26
+hd_2_std: 115.56908064010895
+hd_2_min: 248.0
+hd_2_max: 980.0
+--
+hd_3_mean: 450.21
+hd_3_std: 125.23596088983388
+hd_3_min: 269.0
+hd_3_max: 1062.0
+--
+--
+ & 21.0 & 34.97 & 82.0 & 21.0 & 34.99 & 82.0 & 246.0 & 413.13 & 978.0 & 248.0 & 415.26 & 980.0 & 269.0 & 450.21 & 1062.0
+--------------------
+--------------------
+& \multicolumn{1}{c|}{$34.97 \pm 9.68$} & \multicolumn{1}{c|}{$34.99 \pm 9.69$} & \multicolumn{1}{c|}{$413.13 \pm 115.34$} & \multicolumn{1}{c|}{$415.26 \pm 115.57$} & \multicolumn{1}{c|}{$450.21 \pm 125.24$}
+
+& \multicolumn{1}{c|}{$34.97 \pm 9.679$} & \multicolumn{1}{c|}{$34.99 \pm 9.691$} & \multicolumn{1}{c|}{$413.13 \pm 115.336$} & \multicolumn{1}{c|}{$415.26 \pm 115.569$} & \multicolumn{1}{c|}{$450.21 \pm 125.236$}

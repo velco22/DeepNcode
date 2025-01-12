@@ -1,0 +1,35 @@
+./talbf_results/cifar10/vgg11_bn_quan8_1000_targetClass0/
+--------------------
+--------------------
+# of weights attacked mean: 25.696
+# of weights attacked std: 7.777376421390443
+# of weights attacked min: 4.0
+# of weights attacked max: 80.0
+--
+hd_0_mean: 26.211
+hd_0_std: 7.862981559179698
+hd_0_min: 4.0
+hd_0_max: 81.0
+--
+hd_1_mean: 301.543
+hd_1_std: 92.53484830592203
+hd_1_min: 36.0
+hd_1_max: 942.0
+--
+hd_2_mean: 302.782
+hd_2_std: 92.72855264695983
+hd_2_min: 38.0
+hd_2_max: 946.0
+--
+hd_3_mean: 327.963
+hd_3_std: 100.49637620829917
+hd_3_min: 41.0
+hd_3_max: 1025.0
+--
+--
+ & 4.0 & 25.696 & 80.0 & 4.0 & 26.211 & 81.0 & 36.0 & 301.543 & 942.0 & 38.0 & 302.782 & 946.0 & 41.0 & 327.963 & 1025.0
+--------------------
+--------------------
+& \multicolumn{1}{c|}{$25.696 \pm 7.78$} & \multicolumn{1}{c|}{$26.211 \pm 7.86$} & \multicolumn{1}{c|}{$301.543 \pm 92.53$} & \multicolumn{1}{c|}{$302.782 \pm 92.73$} & \multicolumn{1}{c|}{$327.963 \pm 100.50$}
+
+& \multicolumn{1}{c|}{$25.696 \pm 7.777$} & \multicolumn{1}{c|}{$26.211 \pm 7.863$} & \multicolumn{1}{c|}{$301.543 \pm 92.535$} & \multicolumn{1}{c|}{$302.782 \pm 92.729$} & \multicolumn{1}{c|}{$327.963 \pm 100.496$}

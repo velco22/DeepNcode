@@ -1,0 +1,114 @@
+done 1000
+00:19:29.16
+acc_int4:  0.96
+acc_int4_encoded:  0.96
+acc_int4_fullprotection:  0.96
+dif_encoded:  0.0
+dif_fullprotection:  0.0
+eva_time: 0.3796770932674408
+eva_time_encoded: 0.3943373866081238
+eva_time_fullprotection: 0.39499373197555543
+----------------------------------------------------------------------------
+done 2000
+00:18:49.78
+acc_int4:  0.943
+acc_int4_encoded:  0.943
+acc_int4_fullprotection:  0.943
+dif_encoded:  0.0
+dif_fullprotection:  0.0
+eva_time: 0.3731690473556519
+eva_time_encoded: 0.38787197434902193
+eva_time_fullprotection: 0.3882845547199249
+----------------------------------------------------------------------------
+done 3000
+00:18:32.92
+acc_int4:  0.94
+acc_int4_encoded:  0.94
+acc_int4_fullprotection:  0.94
+dif_encoded:  0.0
+dif_fullprotection:  0.0
+eva_time: 0.3691642594337463
+eva_time_encoded: 0.38386186583836873
+eva_time_fullprotection: 0.38412570651372274
+----------------------------------------------------------------------------
+done 4000
+00:18:37.74
+acc_int4:  0.9395
+acc_int4_encoded:  0.9395
+acc_int4_fullprotection:  0.9395
+dif_encoded:  0.0
+dif_fullprotection:  0.0
+eva_time: 0.36751175558567045
+eva_time_encoded: 0.38226604568958283
+eva_time_fullprotection: 0.382489327609539
+----------------------------------------------------------------------------
+done 5000
+00:28:19.37
+acc_int4:  0.9382
+acc_int4_encoded:  0.9382
+acc_int4_fullprotection:  0.9382
+dif_encoded:  0.0
+dif_fullprotection:  0.0
+eva_time: 0.4033918935775757
+eva_time_encoded: 0.42100325050354004
+eva_time_fullprotection: 0.42126157927513125
+----------------------------------------------------------------------------
+done 6000
+00:19:55.99
+acc_int4:  0.9431666666666667
+acc_int4_encoded:  0.9431666666666667
+acc_int4_fullprotection:  0.9431666666666667
+dif_encoded:  0.0
+dif_fullprotection:  0.0
+eva_time: 0.40081497085094453
+eva_time_encoded: 0.4181447466214498
+eva_time_fullprotection: 0.41839286490281424
+----------------------------------------------------------------------------
+done 7000
+00:19:56.36
+acc_int4:  0.9458571428571428
+acc_int4_encoded:  0.9458571428571428
+acc_int4_fullprotection:  0.9458571428571428
+dif_encoded:  0.0
+dif_fullprotection:  0.0
+eva_time: 0.39900342743737355
+eva_time_encoded: 0.41612524448122296
+eva_time_fullprotection: 0.41634466927392144
+----------------------------------------------------------------------------
+done 8000
+00:19:52.71
+acc_int4:  0.950375
+acc_int4_encoded:  0.950375
+acc_int4_fullprotection:  0.950375
+dif_encoded:  0.0
+dif_fullprotection:  0.0
+eva_time: 0.39750816583633425
+eva_time_encoded: 0.4144746707677841
+eva_time_fullprotection: 0.41462248474359514
+----------------------------------------------------------------------------
+done 9000
+00:20:22.72
+acc_int4:  0.954
+acc_int4_encoded:  0.954
+acc_int4_fullprotection:  0.954
+dif_encoded:  0.0
+dif_fullprotection:  0.0
+eva_time: 0.39774527377552454
+eva_time_encoded: 0.4139465979470147
+eva_time_fullprotection: 0.41446376792589823
+----------------------------------------------------------------------------
+03:23:37.23
+Mistake1 in output: 0.0
+Mistake1 in value: 0.0
+
+Mistake2 in output: 0.0
+Mistake2 in value: 0.0
+
+313/313 [==============================] - 0s 977us/step - loss: 0.1000 - accuracy: 0.9757
+Accuracy float32          :  0.9757000207901001
+Accuracy int4             :  0.9549
+Accuracy int4 encoded     :  0.9549
+Accuracy int4 encoded full:  0.9549
+eva_time: 0.3962700492143631
+eva_time_encoded: 0.41243418254852293
+eva_time_fullprotection: 0.412866726565361

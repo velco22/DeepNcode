@@ -1,0 +1,35 @@
+./tbfa_results/cifar10/vgg11_bn_quan4_100_type1/
+--------------------
+--------------------
+# of weights attacked mean: 48.97
+# of weights attacked std: 35.53124118293646
+# of weights attacked min: 34.0
+# of weights attacked max: 373.0
+--
+hd_0_mean: 49.79
+hd_0_std: 35.75871781817687
+hd_0_min: 34.0
+hd_0_max: 376.0
+--
+hd_1_mean: 329.93
+hd_1_std: 235.25680670280298
+hd_1_min: 235.0
+hd_1_max: 2493.0
+--
+hd_2_mean: 375.64
+hd_2_std: 266.3063469014586
+hd_2_min: 268.0
+hd_2_max: 2828.0
+--
+hd_3_mean: 379.62
+hd_3_std: 270.53387144681165
+hd_3_min: 269.0
+hd_3_max: 2865.0
+--
+--
+ & 34.0 & 48.97 & 373.0 & 34.0 & 49.79 & 376.0 & 235.0 & 329.93 & 2493.0 & 268.0 & 375.64 & 2828.0 & 269.0 & 379.62 & 2865.0
+--------------------
+--------------------
+& \multicolumn{1}{c|}{$48.97 \pm 35.53$} & \multicolumn{1}{c|}{$49.79 \pm 35.76$} & \multicolumn{1}{c|}{$329.93 \pm 235.26$} & \multicolumn{1}{c|}{$375.64 \pm 266.31$} & \multicolumn{1}{c|}{$379.62 \pm 270.53$}
+
+& \multicolumn{1}{c|}{$48.97 \pm 35.531$} & \multicolumn{1}{c|}{$49.79 \pm 35.759$} & \multicolumn{1}{c|}{$329.93 \pm 235.257$} & \multicolumn{1}{c|}{$375.64 \pm 266.306$} & \multicolumn{1}{c|}{$379.62 \pm 270.534$}

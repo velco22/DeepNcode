@@ -1,0 +1,8 @@
+Number of parameters: 11220153
+Evaluation time and accuracy
+beginning_test_acc: 75.03
+time_arr_all:     1.8423960208892822
+time_arr_one_avr: 0.00018423960208892822
+----------------------------------------
+----------------------------------------
+C12

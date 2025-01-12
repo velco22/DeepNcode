@@ -1,0 +1,9 @@
+Mistake in output: 0.0
+Mistake in value: 0.0
+
+313/313 [==============================] - 1s 1ms/step - loss: 0.0824 - accuracy: 0.9813
+Accuracy float32:  0.9812999963760376
+Accuracy int8 tf:  0.9802
+Accuracy int8   :  0.9802
+Accuracy int4   :  0.9483
+Accuracy int2   :  0.098

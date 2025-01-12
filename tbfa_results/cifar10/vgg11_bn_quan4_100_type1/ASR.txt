@@ -1,0 +1,25 @@
+./tbfa_results/cifar10/vgg11_bn_quan4_100_type1/
+--------------------
+--------------------
+ASR_AS mean: 100.0
+ASR_AS std: 0.0
+ASR_AS min: 100.0
+ASR_AS max: 100.0
+--
+& $ 100.0 \pm 0.00 $ & 100.0 & 100.0
+--------------------
+--------------------
+ASR_rest mean: 0.0
+ASR_rest std: 0.0
+ASR_rest min: 0.0
+ASR_rest max: 0.0
+--
+& $ 0.0 \pm 0.00 $ & 0.0 & 0.0
+--------------------
+--------------------
+PA_ACC mean: 0.0
+PA_ACC std: 0.0
+PA_ACC min: 0.0
+PA_ACC max: 0.0
+--
+& $ 0.00 \pm 0.00 $ & 0.00 & 0.00

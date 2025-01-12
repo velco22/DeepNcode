@@ -1,0 +1,35 @@
+./talbf_results/cifar10/resnet20_quan4_100/
+--------------------
+--------------------
+# of weights attacked mean: 5.23
+# of weights attacked std: 1.108647825055369
+# of weights attacked min: 3.0
+# of weights attacked max: 11.0
+--
+hd_0_mean: 5.234
+hd_0_std: 1.1150085201468194
+hd_0_min: 3.0
+hd_0_max: 11.0
+--
+hd_1_mean: 36.33
+hd_1_std: 7.66362185914728
+hd_1_min: 21.0
+hd_1_max: 77.0
+--
+hd_2_mean: 41.472
+hd_2_std: 8.756781143776518
+hd_2_min: 24.0
+hd_2_max: 88.0
+--
+hd_3_mean: 41.564
+hd_3_std: 8.768004562042607
+hd_3_min: 24.0
+hd_3_max: 88.0
+--
+--
+ & 3.0 & 5.23 & 11.0 & 3.0 & 5.234 & 11.0 & 21.0 & 36.33 & 77.0 & 24.0 & 41.472 & 88.0 & 24.0 & 41.564 & 88.0
+--------------------
+--------------------
+& \multicolumn{1}{c|}{$5.23 \pm 1.11$} & \multicolumn{1}{c|}{$5.234 \pm 1.12$} & \multicolumn{1}{c|}{$36.33 \pm 7.66$} & \multicolumn{1}{c|}{$41.472 \pm 8.76$} & \multicolumn{1}{c|}{$41.564 \pm 8.77$}
+
+& \multicolumn{1}{c|}{$5.23 \pm 1.109$} & \multicolumn{1}{c|}{$5.234 \pm 1.115$} & \multicolumn{1}{c|}{$36.33 \pm 7.664$} & \multicolumn{1}{c|}{$41.472 \pm 8.757$} & \multicolumn{1}{c|}{$41.564 \pm 8.768$}

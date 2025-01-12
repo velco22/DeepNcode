@@ -1,0 +1,35 @@
+./talbf_results/cifar100/resnet18_quan8_100_targetClass0/
+--------------------
+--------------------
+# of weights attacked mean: 46.63
+# of weights attacked std: 21.48425237237731
+# of weights attacked min: 9.0
+# of weights attacked max: 112.0
+--
+hd_0_mean: 46.63
+hd_0_std: 21.48425237237731
+hd_0_min: 9.0
+hd_0_max: 112.0
+--
+hd_1_mean: 557.01
+hd_1_std: 256.34330476920985
+hd_1_min: 108.0
+hd_1_max: 1341.0
+--
+hd_2_mean: 557.86
+hd_2_std: 256.82901004364754
+hd_2_min: 108.0
+hd_2_max: 1342.0
+--
+hd_3_mean: 604.49
+hd_3_std: 278.31271961590255
+hd_3_min: 117.0
+hd_3_max: 1454.0
+--
+--
+ & 9.0 & 46.63 & 112.0 & 9.0 & 46.63 & 112.0 & 108.0 & 557.01 & 1341.0 & 108.0 & 557.86 & 1342.0 & 117.0 & 604.49 & 1454.0
+--------------------
+--------------------
+& \multicolumn{1}{c|}{$46.63 \pm 21.48$} & \multicolumn{1}{c|}{$46.63 \pm 21.48$} & \multicolumn{1}{c|}{$557.01 \pm 256.34$} & \multicolumn{1}{c|}{$557.86 \pm 256.83$} & \multicolumn{1}{c|}{$604.49 \pm 278.31$}
+
+& \multicolumn{1}{c|}{$46.63 \pm 21.484$} & \multicolumn{1}{c|}{$46.63 \pm 21.484$} & \multicolumn{1}{c|}{$557.01 \pm 256.343$} & \multicolumn{1}{c|}{$557.86 \pm 256.829$} & \multicolumn{1}{c|}{$604.49 \pm 278.313$}

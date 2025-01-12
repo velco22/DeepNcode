@@ -1,0 +1,27 @@
+Evaluation time and accuracy
+beginning_test_acc: 91.44
+time_arr_all:     7.716523885726929
+time_arr_one_avr: 0.0007716523885726929
+----------------------------------------
+----------------------------------------
+C7
+time_encoding_min:  0.01030588150024414
+time_decoding_min:  0.011294364929199219
+--
+time_encoding_max:  0.02217411994934082
+time_decoding_max:  0.02196025848388672
+--
+time_encoding_mean: 0.01596010494232178
+time_decoding_mean: 0.015616406679153443
+----------------------------------------
+C8
+time_encoding_min:  0.012318849563598633
+time_decoding_min:  0.011138200759887695
+--
+time_encoding_max:  0.022217750549316406
+time_decoding_max:  0.020699262619018555
+--
+time_encoding_mean: 0.015907203674316406
+time_decoding_mean: 0.015519954919815063
+----------------------------------------
+C9
