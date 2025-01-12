@@ -8,7 +8,7 @@ attack_bfa.py - code for BFA attack with simulation of our countermeasure\
 attack_talbf.py - code for TA-LBF attack with simulation of our countermeasure\
 attack_tbfa.py - code for T-BFA attack with simulation of our countermeasure\
 main.py - used for training NN\
-our_implementation_of_qnn - implementation of qnn with countermeasure\
+our_implementation_of_qnn - implementation of qnn with countermeasure
 
 ## Parts of this code repository is based on the following works:
 BFA - https://github.com/elliothe/BFA \
