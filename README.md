@@ -3,7 +3,7 @@
 ### Paper: https://arxiv.org/abs/2405.13891
 ### Master's Thesis Evidence No.: FIIT-183739-103175
 
-To cite this work, please use the following BibTeX entry:
+### To cite this work, please use the following BibTeX entry:
 
 ```
 @article{velvcicky2024deepncode,
