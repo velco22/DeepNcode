@@ -4,12 +4,15 @@
 ### Master's Thesis Evidence No.: FIIT-183739-103175
 
 To cite this work, please use the following BibTeX entry:
+
+```
 @article{velvcicky2024deepncode,
   title={DeepNcode: Encoding-Based Protection against Bit-Flip Attacks on Neural Networks},
   author={Vel{\v{c}}ick{\`y}, Patrik and Breier, Jakub and Kova{\v{c}}evi{\'c}, Mladen and Hou, Xiaolu},
   journal={arXiv preprint arXiv:2405.13891},
   year={2024}
 }
+```
 
 ## Important files:
 *.sh files - examples of usage\
